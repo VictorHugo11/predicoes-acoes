@@ -19,22 +19,3 @@ Neste projeto, utilizamos dados históricos de fechamento diário da Petrobras d
 ## Resultados
 
 As previsões para os dias 20 a 27 de dezembro de 2023 foram comparadas com os valores reais, evidenciando algumas discrepâncias pontuais.
-
-## Pré-Requisitos
-
-- Python 3
-- Bibliotecas: Keras, yfinance, Pandas, NumPy, Matplotlib
-
-## Como Usar
-
-1. Clone este repositório.
-2. Instale as dependências necessárias.
-3. Execute o código conforme descrito nos notebooks ou scripts.
-
-## Contribuições
-
-Contribuições são bem-vindas! Caso deseje melhorar ou expandir este projeto, sinta-se à vontade para fazer um fork e criar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
