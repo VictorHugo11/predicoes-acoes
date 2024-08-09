@@ -23,6 +23,7 @@ O projeto inclui gráficos que comparam os preços reais das ações com as prev
 
 Embora o modelo apresente resultados promissores, é fundamental entender que ele não oferece garantias de 100% de assertividade. Modelos preditivos como este devem ser utilizados como ferramentas auxiliares na análise do mercado, e não como única base para decisões de investimento. O mercado de ações é dinâmico e influenciado por diversos fatores imprevisíveis.
 
+<<<<<<< HEAD
 ## 🛠️ Tecnologias Utilizadas
 
 - Python
@@ -32,3 +33,6 @@ Embora o modelo apresente resultados promissores, é fundamental entender que el
 - Keras
 - Matplotlib
 - Yahoo Finance API
+=======
+As previsões para os dias 20 a 27 de dezembro de 2023 foram comparadas com os valores reais, evidenciando algumas discrepâncias pontuais.
+>>>>>>> e0dbb36e1018ee24914c3c91d405718fcb8200d4
